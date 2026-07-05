@@ -186,11 +186,11 @@ Angry-Birds-Slingshot-Mechanics-Unity6
 
 **LinkedIn**
 
-(Add your LinkedIn profile link)
+www.linkedin.com/in/abikarthick
 
 **Portfolio**
 
-(Add your portfolio link)
+https://abikarthickgdev.github.io/GAMEDEV_PORTFOLIO/
 
 ---
 
