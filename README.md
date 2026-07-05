@@ -8,7 +8,7 @@ The goal of this project was to understand how the original slingshot gameplay w
 
 ## 🎥 Gameplay
 
-https://github.com/ABIKARTHICKGDEV/Angry-Birds-Slingshot-Mechanics-Unity6/blob/main/Images/gameplay.mp4
+https://github.com/ABIKARTHICKGDEV/Angry-Birds-Slingshot-Mechanics-Unity-6-/blob/main/Images/gameplay.mp4
 
 ---
 
